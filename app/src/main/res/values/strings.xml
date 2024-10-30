@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Toyota Car List</string>
+
+    <string name="image_description">Image Description</string>
+    <string name="dummy_text">Dummy Text</string>
+    <string name="profile_name">I Made Arya Adi Pramana</string>
+    <string name="profile_email">pramana.2205551016@student.unud.ac.id</string>
+    <string name="share">Share</string>
+
+    <string-array name="car_name">
+        <item>Toyota Avanza</item>
+        <item>Toyota Innova Zenix</item>
+        <item>Toyota Raize</item>
+        <item>Toyota Vios</item>
+        <item>Toyota HiAce Premio</item>
+        <item>Toyota GR86</item>
+        <item>Toyota Hilux</item>
+        <item>Toyota Agya</item>
+        <item>Toyota Calya</item>
+        <item>Toyota Yaris Cross</item>
+    </string-array>
+
+    <string-array name="car_enginecapacity">
+        <item>1.300cc dan 1.500</item>
+        <item>2.000cc Bensin dan 2.000cc Hybrid</item>
+        <item>1.000cc Turbo dan 1.200cc</item>
+        <item>1.500cc</item>
+        <item>2.800cc</item>
+        <item>2.400cc</item>
+        <item>2.400cc</item>
+        <item>1.000cc dan 1.200cc</item>
+        <item>1.200cc</item>
+        <item>1.500cc Bensin dan 1.500cc Hybrid</item>
+    </string-array>
+
+    <string-array name="car_fueltype">
+        <item>Bensin</item>
+        <item>Bensin</item>
+        <item>Bensin</item>
+        <item>Bensin</item>
+        <item>Diesel</item>
+        <item>Bensin</item>
+        <item>Diesel</item>
+        <item>Bensin</item>
+        <item>Bensin</item>
+        <item>Bensin</item>
+    </string-array>
+
+    <string-array name="car_totalseat">
+        <item>7</item>
+        <item>7</item>
+        <item>5</item>
+        <item>5</item>
+        <item>15</item>
+        <item>2+2</item>
+        <item>5</item>
+        <item>5</item>
+        <item>7</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="car_description">
+        <item>Toyota Avanza adalah MPV yang populer di Indonesia dan sering menjadi pilihan utama untuk mobil keluarga. Dilengkapi dengan kabin luas, fitur keselamatan yang ditingkatkan seperti airbag, ABS, dan kontrol stabilitas. Mobil ini juga memiliki konsumsi bahan bakar yang efisien dan dilengkapi dengan desain modern yang semakin sporty.</item>
+        <item>Toyota Innova Zenix adalah versi terbaru dari Innova dengan fitur dan kenyamanan yang lebih baik. Dilengkapi dengan teknologi hybrid untuk varian tertentu, memberikan efisiensi bahan bakar yang lebih tinggi dan lebih ramah lingkungan. Interiornya dilengkapi dengan fitur premium, ruang kabin yang luas, serta teknologi canggih seperti layar sentuh dan konektivitas yang modern.</item>
+        <item>Toyota Raize adalah crossover kompak dengan desain yang stylish dan modern. Meski berukuran kecil, mobil ini menawarkan ruang yang cukup luas untuk penumpang dan barang. Fitur keselamatan canggih seperti Hill Start Assist, Vehicle Stability Control, dan kamera belakang membuatnya cocok untuk berkendara di perkotaan.</item>
+        <item>Toyota Vios adalah sedan yang telah lama menjadi favorit di kalangan pengemudi, terutama karena efisiensinya. Dengan desain yang elegan dan fitur keselamatan seperti airbag dan sistem pengereman ABS, Vios sangat cocok untuk penggunaan sehari-hari dan memberikan kenyamanan bagi pengendara dan penumpang.</item>
+        <item>Toyota HiAce Premio adalah kendaraan komersial yang dirancang untuk keperluan angkutan penumpang maupun barang. Mobil ini sangat cocok untuk bisnis transportasi dengan fitur kenyamanan yang baik, ruang yang luas, dan kemampuan mesin yang andal. Dilengkapi dengan fitur keselamatan standar seperti airbag dan ABS.</item>
+        <item>Toyota GR86 adalah mobil sport yang menggabungkan performa tinggi dengan desain yang atraktif. Mobil ini sangat cocok bagi mereka yang mencari pengalaman berkendara yang dinamis dengan akselerasi responsif, sistem suspensi yang canggih, dan kemampuan menikung yang superior.</item>
+        <item>Toyota Hilux adalah salah satu pick-up yang paling tangguh di kelasnya. Dikenal karena ketangguhannya di berbagai medan dan memiliki daya angkut yang besar, Hilux menjadi pilihan yang ideal untuk penggunaan di perkebunan, proyek konstruksi, maupun petualangan off-road. Dilengkapi dengan fitur keamanan modern.</item>
+        <item>Toyota Agya adalah mobil perkotaan yang kompak dan ekonomis. Sangat cocok untuk mereka yang mencari mobil dengan konsumsi bahan bakar efisien dan desain yang praktis untuk bermanuver di jalanan perkotaan yang padat.</item>
+        <item>Toyota Calya adalah MPV kompak yang dirancang untuk memenuhi kebutuhan keluarga modern dengan harga yang terjangkau. Dilengkapi dengan fitur keselamatan dasar, interior yang nyaman, serta ruang bagasi yang luas.</item>
+        <item>Toyota Yaris Cross adalah SUV kompak yang menggabungkan gaya hidup urban dengan kemampuan off-road ringan. Dilengkapi dengan berbagai fitur modern seperti sistem infotainment, kontrol iklim otomatis, serta fitur keselamatan seperti kontrol traksi dan kamera parkir.</item>
+    </string-array>
+
+    <integer-array name="car_photo">
+        <item>@drawable/avanza</item>
+        <item>@drawable/innova_zenix</item>
+        <item>@drawable/raize</item>
+        <item>@drawable/vios</item>
+        <item>@drawable/hiace_premio</item>
+        <item>@drawable/gr86</item>
+        <item>@drawable/hilux</item>
+        <item>@drawable/agya</item>
+        <item>@drawable/calya</item>
+        <item>@drawable/yaris_cross</item>
+    </integer-array>
+
+</resources>

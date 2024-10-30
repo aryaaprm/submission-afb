@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.ToyotaCarList" parent="Theme.Material3.Light.NoActionBar">
+         <item name="colorPrimary">@color/dark_gray</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar"></style>
+
+    <style name="Theme.ToyotaCarList" parent="Base.Theme.ToyotaCarList" />
+
+    <style name="CustomToolbarTitleStyle" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:fontFamily">@font/popbold</item> <!-- Menggunakan font kustom -->
+        <item name="android:textSize">20sp</item> <!-- Ukuran font -->
+        <item name="android:textColor">@android:color/white</item> <!-- Warna font -->
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+</resources>
